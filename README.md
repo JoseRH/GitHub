@@ -27,7 +27,7 @@ Comands
 Configuration
 -------------
 1. **SignUp**: in [GitHub](https://github.com/).
-2. **Install locally**: `sudo aptitude install gib`
+2. **Install locally**: `sudo aptitude install git`
 3. **Define name**: `git config --global user.name "JoseRH"`
 4. **Define email**: `git config --global user.email "used_email_address"`
 5. **Add credentials**: `git config --global credential.helper cache`
